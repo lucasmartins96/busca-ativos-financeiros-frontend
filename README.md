@@ -1,27 +1,11 @@
-# Homebroker
+# Busca de ativos financeiros
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+Esse projeto é um SPA criado na Santander Dev Week (24/05/2021 - 28/05/2021).
 
-## Development server
+O intuito é desenvolver um SPA Angular que recria uma tela de cotações, com ênfase na criação de uma página responsiva e na integração com a API REST.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+O desenvolvimento foi inteiramente guiado e utiliza Angular e uma API que foi desenvolvida como parte desse projeto.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Links do projeto: 
+- [SPA](https://lucasmartins96.github.io/busca-ativos-financeiros-frontend/)
+- [Back-end da API](https://github.com/lucasmartins96/busca-ativos-financeiros)
