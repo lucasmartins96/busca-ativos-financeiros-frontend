@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve --o",
     "build": "ng build",
+    "deploy": "ng deploy --base-href=https://lucasmartins96.github.io/busca-ativos-financeiros-frontend/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
